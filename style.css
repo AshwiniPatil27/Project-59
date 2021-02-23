@@ -29,6 +29,7 @@ h2 {
 .line {
     height: 6px;
     background-color: #D50000;
+    text-decoration: none;
     width: 70px;
     margin: 8px auto;
 }
